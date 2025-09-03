@@ -1,0 +1,62 @@
+/* 🌈 General Page Styling */
+body {
+  background-color: lightblue;
+  margin: 0;
+  padding: 0;
+}
+
+/* 🧠 Typography */
+h1, h2 {
+  font-family: 'Lexend Giga', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Lexend Giga', sans-serif;
+  color: grey;
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-family: 'Michroma', sans-serif;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+/* 📌 Special Text Classes */
+.important {
+  color: grey;
+  font-family: 'Michroma', sans-serif;
+  text-align: center;
+}
+
+/* 🖼️ Image Styling */
+.image-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  margin-right: 10px;
+}
+
+/* 📦 Layout Containers */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* 🔗 Navigation Links */
+a {
+  color: navy;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
