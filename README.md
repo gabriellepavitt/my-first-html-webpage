@@ -24,7 +24,7 @@ This project is more than code—it's a reflection of love, memory, and growth. 
 ## 🚀 Live Site
 
 Visit the tribute page here:  
-**[https://gabriellepavitt.github.io/my-first-html-project/](https://gabriellepavitt.github.io/my-first-html-project/)**
+**[my-first-html-webpage)](https://gabriellepavitt.github.io/my-first-html-webpage/)**
 
 ---
 
